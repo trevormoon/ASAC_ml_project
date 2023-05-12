@@ -13,8 +13,8 @@
 ### 디렉토리 구성
 
 ```bash
-└── DATA
-    ├── XXXX
+└── WEB CRAWLING
+    ├── steam_web_crawling
     ├── ...
     └── XXXX
 ```
