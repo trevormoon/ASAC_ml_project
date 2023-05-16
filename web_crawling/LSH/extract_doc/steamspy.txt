@@ -1,0 +1,12 @@
+developer
+publisher
+positive
+negative
+average_forever
+average_2weeks
+median_forever
+median_2weeks
+price
+initialprice
+languages
+tags
