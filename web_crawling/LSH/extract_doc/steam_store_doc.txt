@@ -1,0 +1,10 @@
+[data] ->
+
+required_age
+is_free
+controller_support
+platforms -> dict
+[metacritic] -> score
+[recommendations] -> total
+[achievements] -> total
+[release_date] -> date
