@@ -2,11 +2,11 @@
 
 ## 주제
 
-게임 지표 분석을 통한 Game Store 내에서 평가 예측
+게임의 장르, 유저 수 등 게임 정보를 활용한 STEAM 내에서 평가 예측
 
 ### 아이디어 구성
 
-STEAMDB, Metacriticscore 등 다양한 지표를 활용하여 게임이 Steam에 게임을 업로드 할 때에 유저들의 평가 정도 예측하기
+STEAM, STEAMCHART, STEAMSPY의 제공되는 정보를 활용하여 STEAM내에서의 게임의 REVIEW 평가를 예측하는 알고리즘
 
 ### 추진배경
 
@@ -17,7 +17,16 @@ STEAMDB, Metacriticscore 등 다양한 지표를 활용하여 게임이 Steam에
 ### 디렉토리 구성
 
 ```bash
-└── WEB CRAWLING
+├── WEB CRAWLING
+|   ├── STEAM_CRAWLING
+|   ├── STEAM_CHART_CRAWLING
+|   └── STEAM_SPY_CRAWLING
+├── MACHINE LEARNING
+|   ├── CLASSIFICATION
+|   ├── RANDOM FOREST
+|   ├── ...
+|   └── XXXX
+└── VISUAlIZATION
     ├── steam_crawling
     ├── ...
     └── XXXX
