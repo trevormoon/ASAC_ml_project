@@ -46,8 +46,8 @@ def run():
     
     for appid_dir in appid_dirs:
         base_name = os.path.basename(appid_dir)
-        if '2022' in base_name or '2018' in base_name:
-            continue
+        # if '2022' in base_name or '2018' in base_name:
+        #     continue
         
         app_list = [i.replace('\n', '') for i in open(appid_dir).readlines()]
 
