@@ -10,3 +10,4 @@ price
 initialprice
 languages
 tags
+genre
