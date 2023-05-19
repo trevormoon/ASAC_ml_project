@@ -47,8 +47,8 @@ def please(id,idx,res):
     finally:
         final_data[str(id)] = g_info
 
-for year in [2020,2021]:
-    file_path = f"C:/Users/NT550-052/OneDrive/바탕 화면/ASAC/프로젝트/ML 프로젝트/appid_{year}.txt"
+for year in [2019,2018]:
+    file_path = f"C:/Users/NT550-052/OneDrive/바탕 화면/ASAC/프로젝트/ML/web_crawling/LSH/appid_list/appid_{year}.txt"
     file = open(file_path,"r")
     final_data = {}
 
