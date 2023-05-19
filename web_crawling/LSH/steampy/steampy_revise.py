@@ -46,9 +46,7 @@ def run():
     
     for appid_dir in appid_dirs:
         base_name = os.path.basename(appid_dir)
-        if '2019' in base_name or '2018' in base_name:
-            continue
-        
+                
         app_list = [i.replace('\n', '') for i in open(appid_dir).readlines()]
 
         result_last = {i : deque([]) for i in check_list}
