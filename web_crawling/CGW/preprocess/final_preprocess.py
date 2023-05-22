@@ -18,7 +18,7 @@ for year in years:
     data.drop(columns=["release_date","release_date_final"],inplace=True)
     
     # release_date 합치기
-    date_path = r"C:\Users\NT550-052\OneDrive\바탕 화면\ASAC\프로젝트\ML\web_crawling\CGW\csvs\2018_date.csv"
+    date_path = f"C:\\Users\\NT550-052\\OneDrive\\바탕 화면\\ASAC\\프로젝트\\ML\\web_crawling\\CGW\\csvs\\{year}_date.csv"
     date = pd.read_csv(date_path)
 
     data = pd.merge(data,date,how="left",on="appid")
