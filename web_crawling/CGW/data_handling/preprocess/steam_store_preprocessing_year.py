@@ -1,10 +1,12 @@
+# 5개년에 대한 steam store data 전처리 코드 
+
 import pandas as pd
 import numpy as np
 import json
 from datetime import datetime
 import re
 
-years = [2018,2019]
+years = [2018,2019,2020,2021,2022]
 for year in years:
 
     file_path = f"C:/Users/NT550-052/OneDrive/바탕 화면/ASAC/프로젝트/ML/web_crawling/CGW/jsonfiles/steam_store_data_{year}.json"
