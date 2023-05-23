@@ -1,12 +1,18 @@
 # 전체 데이터 최종 전처리
-
-
-
-
-# STEAM STORE DATA 전처리 
-
-### **수집 데이터** 
-- required_age : 연령 제한
+- appid : 게임 고유 아이디
+- 24_Hour_Peak : 최근 24시간의 최고 동접자 수
+- All_time_peak : 출시 이후 최고 동접자 수
+- positive : 긍정 리뷰 수
+- negative : 부정 리뷰 수
+- average_forever : 출시 이후 동접자 수 평균
+- average_2weeks : 최근 2주의 동접자 수 평균
+- median_forever : 출시 이후 동접자 수 중앙값
+- median_2weeks : 최근 2주의 동접자 수 중앙값
+- price : 게임 가격
+- initialprice : 출시 가격
+- genre : 장르
+- num_lang : 지원 언어 개수
+- required_age : 제한 연령
 - is_free : 유/무료 여부
 - dlc : 확장판 appid들  
 - controller_support : 컨트롤러 지원 여부
@@ -14,9 +20,22 @@
 - metacritic : 메타크리틱 점수
 - recommendations : 게임 플레이 유저들의 추천 수
 - achievements : 도전과제 개수
+- Review : 리뷰 등급
 
   
-### **전처리 과정**
+### **전처리 방식**
+**24_Hour_Peak**
+- Invalid 값 0으로 대체
+
+**All_time_peak**
+- Invalid 값 average_forever값으로 대체
+
+**genre**
+- NaN값을 "N"으로 대체 
+
+**Review**
+- NaN값을 No user reviews로 대체 
+
 **required_age**
 
 - 한국의 연령 제한 기준에 맞춰 범주화 진행
@@ -64,6 +83,8 @@
 - windows|mac|linux|platforms_num
     ---|---|---|---
     1|1|0|2
+- NaN 값은 0으로 대체
+- 
 
 **metacritic**
 - 메타크리틱 점수를 그대로 사용하지 않고 점수 존재 여부에 따라 metacritic_tf 컬럼 생성
