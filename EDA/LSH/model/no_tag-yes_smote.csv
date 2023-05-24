@@ -1,0 +1,5 @@
+,Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,TT (Sec)
+rf,Random Forest Classifier,0.7403,0.9143,0.7403,0.745,0.7385,0.6537,0.6563,2.233
+et,Extra Trees Classifier,0.7148,0.9003,0.7148,0.718,0.714,0.6198,0.6212,2.727
+xgboost,Extreme Gradient Boosting,0.7096,0.9039,0.7096,0.713,0.7046,0.6128,0.6165,13.3
+lightgbm,Light Gradient Boosting Machine,0.6926,0.896,0.6926,0.6961,0.6861,0.5901,0.5946,1.341
