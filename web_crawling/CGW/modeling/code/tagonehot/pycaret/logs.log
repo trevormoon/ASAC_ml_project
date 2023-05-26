@@ -38693,3 +38693,16 @@ THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
                  flatten_transform=True, n_jobs=-1, verbose=False,
                  voting='soft', weights=None)
 2023-05-25 18:42:48,074:INFO:blend_models() successfully completed......................................
+2023-05-25 21:14:10,799:WARNING:C:\Users\NT550-052\AppData\Local\Temp\ipykernel_10372\486269815.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df["tag_num"] = 12
+
+2023-05-25 21:18:02,050:WARNING:C:\Users\NT550-052\AppData\Local\Temp\ipykernel_10372\1612669397.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df.loc[1] = ['' for i in range(len(df.columns))]
+
