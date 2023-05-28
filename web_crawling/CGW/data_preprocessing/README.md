@@ -96,8 +96,3 @@
 
 **achievements**
 - NaN값을 0으로 대체
-
-
-
-
-  
