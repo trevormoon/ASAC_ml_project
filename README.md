@@ -8,9 +8,9 @@
 
 ### 추진배경
 
-### ....
+게임의 매출과 유저의 리뷰 사이의 상관관계가 존재함, 이에 따라서 게임의 정보를 토대로 유저의 리뷰를 예측할 수 있을 경우 게임의 성공에 대한 간접적 예측이 가능함.
 
-## 데이터
+
 
 ### REPOSITORY 디렉토리 구성
 
@@ -22,8 +22,10 @@
 ├── EXPLORATORY DATA ANALYSIS
 |   ├── DATA CORREALATION
 |   ├── DATA OUTLIER
+|   ├── CATEGORICAL VARIABLE PREPROCESSING
 |   └── VISUALIZATION
 ├── MACHINE LEARNING
+|   ├── TRAINING DATA PREPROCESSING
 |   ├── BASE MODEL SELECTION
 |   ├── HYPER PARAMETER TUNING
 |   └── FINAL MODEL SELECTION
