@@ -38,6 +38,11 @@ STEAM에 새로 진입하는 게임에 대해서 유저들의 리뷰의 예측�
 
 ## 모델
 
+학습과정 SCHEMATICS
+
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/1ca258f0-e2de-47f0-8bc9-94a78bc36862)
+
+
 ## 결과
 
 ![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/6bbce902-bf87-4c4c-bcb9-1a9e5e7da078)
