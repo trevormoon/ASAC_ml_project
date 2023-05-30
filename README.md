@@ -45,4 +45,11 @@ STEAM에 새로 진입하는 게임에 대해서 유저들의 리뷰의 예측�
 
 ## 결과
 
+### 최종 모델의 성능
+
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/6caae344-a497-4d4b-b8c1-3ba7557d50b4)
+
+
+### 예측 지표를 통한 게임 가이드라인 제시
+
 ![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/6bbce902-bf87-4c4c-bcb9-1a9e5e7da078)
