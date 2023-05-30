@@ -6,7 +6,7 @@
 
 예측한 유저리뷰를 토대로 동일 장르의 게임과 비교하여 게임을 위한 가이드라인 제시
 
-### 추진배경
+## 추진배경
 
 게임의 매출과 유저의 리뷰 사이의 상관관계가 존재함. 
 
@@ -14,7 +14,7 @@
 
 STEAM에 새로 진입하는 게임에 대해서 유저들의 리뷰의 예측을 통해서 게임의 간접적 성공 여부를 확인 가능.
 
-### REPOSITORY 디렉토리 구성
+## REPOSITORY 디렉토리 구성
 
 ```bash
 ├── WEB CRAWLING
@@ -40,3 +40,4 @@ STEAM에 새로 진입하는 게임에 대해서 유저들의 리뷰의 예측�
 
 ## 결과
 
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/6bbce902-bf87-4c4c-bcb9-1a9e5e7da078)
