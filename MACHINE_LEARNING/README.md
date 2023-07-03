@@ -2,20 +2,25 @@
 
 ## CLASS IMBALANCE (SAMPLING METHOD)
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/7cc8be45-5c4b-4da1-b850-deac4f23394d)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/1050326c-6f23-4fa0-871a-1de42fbe2ad2)
+
 
 ## BASE MODEL SELECTION
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/2d5987b2-21e1-45d2-9d3c-2b4f027f4f50)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/7d981e89-5267-41dc-8a47-c56254d7b8ed)
+
 
 ## HYPER PARAMETER TUNING
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/3f838d01-d750-4d51-9d40-9f49221bfc7c)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/cd056827-2e99-4d4f-be25-78583d876040)
+
 
 ## FEATURE IMPORTANCE
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/76e3ce82-6824-4a88-a150-ce9f5659a2ed)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/5ceff337-aa2a-4162-b9bf-a506a5bece36)
+
 
 ## MODEL COMPARISON
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/35c61049-f3a9-45a4-8eab-e7ffd0a83c28)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/aef994b8-85b8-4022-9734-44c19bb82330)
+
