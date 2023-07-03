@@ -4,20 +4,20 @@
 
 Crawl data from 3 different webpage.
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/fce16fd5-ccdc-4199-a7c0-624218a102c4)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/51efaf21-a8a4-4408-a394-cc445b316e11)
 
 ### STEAM STORE
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/3969616c-0d59-44ea-b7f2-e690e09bc917)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/66c3c488-62be-4764-aa82-b7e24980ba8b)
 
 ### STEAM CHART
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/e6eddac8-2af1-4164-bade-3fd646301e0f)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/57bce207-fd50-4e4f-812b-a33d7f3e1557)
 
 ### STEAM SPY
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/d287f5f5-616f-4e1d-bdf2-6bd14afab747)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/54d82ec8-f8c7-48fb-a918-067eb06d3372)
 
 ### MISSING VALUE PREPROCESSING
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/9f7e9fda-ac37-45f0-89f0-9378f36dc149)
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/d7270692-c38e-4458-8c96-e7fb11a6efe2)
