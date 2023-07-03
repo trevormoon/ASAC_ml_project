@@ -40,8 +40,8 @@ STEAM에 새로 진입하는 게임에 대해서 유저들의 리뷰의 예측�
 ## MACHINE LEARNING 모델링 및 학습
 
 ### 학습과정 SCHEMATICS
+![image](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/17372a96-f206-4148-a51d-72ff249f52ac)
 
-![image](https://github.com/trevormoon/ASAC_ml_project/assets/29498764/1ca258f0-e2de-47f0-8bc9-94a78bc36862)
 
 
 ## 프로젝트 결과물
